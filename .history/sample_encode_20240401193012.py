@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
-# @Time    : 2024/3/5
+# @Time    : 2024/3/1 10:00
 # @Author  : hpz
 # @File    : sample_encode.py
-# @Software: VScode
+# @Software: PyCharm
 # @Description: 进行样本文本编码
 import os
 import numpy as np

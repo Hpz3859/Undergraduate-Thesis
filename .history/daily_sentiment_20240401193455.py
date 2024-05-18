@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
-# @Time    : 2024/3/15
+# @Time    : 2024/3/1 10:00
 # @Author  : hpz
 # @File    : daily_sentiment.py
-# @Software: VScode
+# @Software: PyCharm
 # @Description: 计算HS300股评的日度情绪
 
 import numpy as np

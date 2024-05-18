@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
-# @Time    : 2024/3/2
+# @Time    : 2024/3/1 10:00
 # @Author  : hpz
 # @File    : get_comment_HS300.py
-# @Software: VScode
+# @Software: PyCharm
 # @Description: 东方财富股吧股评爬取
 
 import os

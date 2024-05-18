@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
-# @Time    : 2024/3/5
+# @Time    : 2024/3/1 10:00
 # @Author  : hpz
 # @File    : HS300_list.py
-# @Software: VScode
+# @Software: PyCharm
 # @Description: 整理HS300股票列表
 
 import os
